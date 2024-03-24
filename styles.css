@@ -88,14 +88,14 @@
          margin-left: 350px;
          margin-bottom: revert-layer;
          margin-top: -339px;
-         background-image: url(decoration/Blur-deadpool-venom.jpg);
+         background-image: url(Blur-deadpool-venom.jpg);
          background-size: cover;
          border-radius: 50%;
          transition: background-image 0.3s ease;
      }
 
      .circle-link:hover {
-         background-image: url(resume/resumepic.png);
+         background-image: url(resumepic.png);
          /* Default image decoration/deadpool-venom.jpg */
      }
 
